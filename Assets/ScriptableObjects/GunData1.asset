@@ -9,10 +9,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ef850f0fc341f5043b92289291e08f88, type: 3}
-  m_Name: GunData
+  m_Script: {fileID: 11500000, guid: 6ec55560fc19ca546a2bd71dd77fe004, type: 3}
+  m_Name: GunData1
   m_EditorClassIdentifier: 
   fireRate: 1
-  damage: 10
+  damage: 30
   shootParticlesPrefab: {fileID: 5880797563127281583, guid: 265d3a5ba69981a4698ceabcedf368b0, type: 3}
   shootSoundName: Shoot

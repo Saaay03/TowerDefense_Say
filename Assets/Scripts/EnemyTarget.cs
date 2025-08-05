@@ -1,6 +1,5 @@
 using UnityEngine;
 [System.Serializable]
-
 public class EnemyTarget
 {
     private Transform _target;
