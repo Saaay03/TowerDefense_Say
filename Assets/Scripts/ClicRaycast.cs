@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.Events;
 
-public class ClickRaycast : MonoBehaviour
+public class ClicRaycast : MonoBehaviour
 {
     [SerializeField]
     private LayerMask _raycastLayerMask;
@@ -42,3 +42,4 @@ public class ClickRaycast : MonoBehaviour
         _onCoinCollected?.Invoke(coin.transform);
     }
 }
+
