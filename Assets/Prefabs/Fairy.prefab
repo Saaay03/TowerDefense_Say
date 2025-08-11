@@ -1218,15 +1218,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _healthSlider: {fileID: 6400971510329985943}
-  _maxHealth: 65
+  _maxHealth: 100
   _onTakeDamage:
     m_PersistentCalls:
       m_Calls: []
   _onDie:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1921152775403830270}
-        m_TargetAssemblyTypeName: Health, Assembly-CSharp
+      - m_Target: {fileID: -6285738959856064014}
+        m_TargetAssemblyTypeName: Enemy, Assembly-CSharp
         m_MethodName: Die
         m_Mode: 1
         m_Arguments:

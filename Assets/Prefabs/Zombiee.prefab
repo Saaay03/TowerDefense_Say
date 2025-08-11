@@ -634,7 +634,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _healthSlider: {fileID: 2571889491044675995}
-  _maxHealth: 100
+  _maxHealth: 150
   _onTakeDamage:
     m_PersistentCalls:
       m_Calls: []
