@@ -350,7 +350,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &179898797
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1377,7 +1377,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 59
+    m_FontSize: 53
     m_FontStyle: 1
     m_BestFit: 0
     m_MinSize: 0
@@ -2130,7 +2130,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 10f6409053a75d8458620a3251a1c823, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _gunCost: 0
+  _gunCost: 3
   _gunPool: {fileID: 1974222605}
   _coinsNumber: {fileID: 1506905553}
   _costText: {fileID: 1052140473}
@@ -2588,7 +2588,7 @@ Transform:
   m_GameObject: {fileID: 1354866041}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.0435, z: 0}
+  m_LocalPosition: {x: 0, y: 0.0135, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -3502,7 +3502,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 10f6409053a75d8458620a3251a1c823, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _gunCost: 0
+  _gunCost: 5
   _gunPool: {fileID: 1234361569}
   _coinsNumber: {fileID: 1506905553}
   _costText: {fileID: 974323763}
